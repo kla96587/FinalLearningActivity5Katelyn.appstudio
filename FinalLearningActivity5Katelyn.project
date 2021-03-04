@@ -22,8 +22,32 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "While",
+            "While.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "For",
+            "For.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Calc",
+            "Calc.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Strings",
+            "Strings.json"
           ]
         }
       ],
